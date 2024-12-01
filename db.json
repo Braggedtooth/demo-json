@@ -10,7 +10,7 @@
      "id":2,
     "name": "Clinic",
     "backendUrl": "http://clinic.com/",
-    "origin": ["http://ui.clinic.com/"]
+    "origin": ["http://ui.clinic.com/", "com.carelyo-mobile.development"]
   }
   ],
   "profile": {
