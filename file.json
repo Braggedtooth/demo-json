@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Hospital",
+    "backendUrl": "http://hospital.com/",
+    "origin": ["http://ui.hospital.com/"]
+  },
+  {
+    "name": "Clinic",
+    "backendUrl": "http://clinic.com/",
+    "origin": ["http://ui.clinic.com/"]
+  }
+]
