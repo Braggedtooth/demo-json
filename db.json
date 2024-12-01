@@ -1,12 +1,19 @@
-[
-  {
+{
+  "providers": [
+   {
+     "id":1,
     "name": "Hospital",
     "backendUrl": "http://hospital.com/",
     "origin": ["http://ui.hospital.com/"]
   },
   {
+     "id":2,
     "name": "Clinic",
     "backendUrl": "http://clinic.com/",
     "origin": ["http://ui.clinic.com/"]
   }
-]
+  ],
+  "profile": {
+    "name": "Providers"
+  }
+}
