@@ -11,7 +11,14 @@
     "name": "Clinic",
     "backendUrl": "http://clinic.com/",
     "origin": ["http://ui.clinic.com/", "com.carelyo-mobile.development"]
+  },
+  {
+     "id":3,
+    "name": "House",
+    "backendUrl": "http://house.com/",
+    "origin": ["http://ui.house.com/", "com.carelyo-mobile.stagin"]
   }
+
   ],
   "profile": {
     "name": "Providers"
